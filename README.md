@@ -5,6 +5,10 @@
 
 简历附件(RDF)以”职位-姓名-学校-学位”格式命名。
 
+[在线简历](https://github.com/kitian616/resume/blob/master/%E5%89%8D%E7%AB%AF%E5%AE%9E%E4%B9%A0%E7%94%9F-%E7%94%B0%E7%90%A6-%E5%8C%97%E4%BA%AC%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-%E7%A1%95%E5%A3%AB.md)
+
+[PDF文档](https://github.com/kitian616/resume/blob/master/%E5%89%8D%E7%AB%AF%E5%AE%9E%E4%B9%A0%E7%94%9F-%E7%94%B0%E7%90%A6-%E5%8C%97%E4%BA%AC%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6-%E7%A1%95%E5%A3%AB.pdf)
+
 ### Markdown
 
 内容管理
